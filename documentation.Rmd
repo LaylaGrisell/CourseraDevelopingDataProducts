@@ -1,0 +1,13 @@
+---
+title: "ShinyApp for Iris dataset"
+output: html_document
+---
+
+
+## Description
+This ShinyApp can be used to visualize the histogram of the Iris dataset. By default the histogram is graphed for the selected variable, where you can choose the number of bins. In addition, you have the option of graphing the histogram by grouping data by Species in the section "Grouping variable by Species".
+
+
+## Source
+Source code for ui.R and server.R files are available on the GitHub repo: (https://github.com/LaylaGrisell/CourseraDevelopingDataProducts)
+
